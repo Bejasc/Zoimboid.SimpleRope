@@ -1,0 +1,11 @@
+module SimpleRope
+{
+	recipe Craft Rope
+	{
+		SheetRope = 5,
+		Result 		: Rope,
+		Time 		: 70,
+		Category 		: General,
+		Sound 		: PZ_ClothesRipping,
+	}
+}
