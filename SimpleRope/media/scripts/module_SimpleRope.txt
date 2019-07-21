@@ -21,7 +21,7 @@ module SimpleRope
 
 	recipe Make Twine from Thread
 	{
-		Thread = 2,
+		Thread = 20,
 		Result 		: Twine,
 		Time 		: 150,
 		Category 	: General,
@@ -30,7 +30,7 @@ module SimpleRope
 
 	recipe Make Rope from Twine
 	{
-		Twine = 2,
+		Twine=10,
 		Result 		: Rope,
 		Time 		: 150,
 		Category 	: General,
@@ -40,7 +40,7 @@ module SimpleRope
 	recipe Break Rope into Twine
 	{
 		Rope,
-		Result 		: Twine=2,
+		Result 		: Twine,
 		Time 		: 150,
 		Category 	: General,
 		Sound 		: PZ_ClothesRipping,
@@ -48,11 +48,10 @@ module SimpleRope
 
 	recipe Break Twine into Thread
 	{
-		Twine,
-		Result 		: Thread=2,
+		Twine = 5,
+		Result 		: Thread,
 		Time 		: 150,
 		Category 	: General,
-		Sound		: PutItemInBag,
 		Sound 		: PZ_ClothesRipping,
 	}
 }
