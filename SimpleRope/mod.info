@@ -1,4 +1,4 @@
-name=Simple Rope
+name=Simple Rope 1.1
 id=SimpleRope
 poster=poster.png
-description=Allows the creation of rope by combining 4x sheet rope.
+description=Create Rope from 5x sheet rope, Create Sheet from 7x Ripped Sheets

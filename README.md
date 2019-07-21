@@ -4,7 +4,7 @@ _Simple Rope is a mod for [Project Zomboid](https://store.steampowered.com/app/1
 
 The mod is available on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1456646886) or [GitHub](https://github.com/Bejasc/Zomboid.SimpleLogistics/releases/latest).
 
-See [planned additions](https://github.com/Bejasc/Zomboid.SimpleLogistics/projects).
+See [planned additions](https://github.com/Bejasc/Zomboid.SimpleRope/projects).
 
 ### Description
 
