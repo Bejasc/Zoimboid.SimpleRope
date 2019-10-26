@@ -1,4 +1,4 @@
-# Simple Logistics
+# Simple Rope
 
 _Simple Rope is a mod for [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/), that adds a balanced way to store and transport certain construction items in bulk._
 
